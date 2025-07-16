@@ -26,7 +26,7 @@ Data Analyst, Health Data Analyst, Data Scientist
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/nonso-okafor1
 
 <!--
 *joshmadakor1/joshmadakor1* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
