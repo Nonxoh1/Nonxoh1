@@ -3,7 +3,7 @@ Data Analyst, Health Data Analyst, Data Scientist
 
 <h2>👨‍💻 Data Analyst/Scientist Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Preparation and Analysis Practice</b>
   - [Channels Transaction Dahboard in a Microfinance Bank](https://github.com/Nonxoh1/All-Channels-Transaction-Dashboard/tree/main)
   - [Hello World!](https://github.com/joshmadakor1/LABURL)
 
