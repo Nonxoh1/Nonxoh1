@@ -4,7 +4,7 @@ Data Analyst, Health Data Analyst, Data Scientist
 <h2>👨‍💻 Data Analyst/Scientist Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/LABURL)
+  - [Active Directory Home Lab](https://github.com/Nonxoh1/All-Channels-Transaction-Dashboard/tree/main)
   - [Hello World!](https://github.com/joshmadakor1/LABURL)
 
 
