@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nonso!<br>
+<h1>Hi, I'm Nonso!<br></h1>
 Data analyst with a dash of data science magic.
 <br>📊 I turn messy data into clean insights and dashboards that actually make sense.</br>
 <br>🐍 Fluent in Power BI, SQL, Excel and Python when things get serious.</br>
