@@ -1,9 +1,9 @@
 <h1>Hi, I'm Nonso!<br>
 Data analyst with a dash of data science magic.
-📊 I turn messy data into clean insights and dashboards that actually make sense.
-🐍 Fluent in Power BI, SQL, Excel... and Python when things get serious.
-⚙ I build, break, and rebuild — it’s all part of the process.
-🚀 Always shipping, always leveling up — check out the projects.
+<br>📊 I turn messy data into clean insights and dashboards that actually make sense.</br>
+<br>🐍 Fluent in Power BI, SQL, Excel... and Python when things get serious.</br>
+<br>⚙ I build, break, and rebuild — it’s all part of the process.</br>
+<br>🚀 Always shipping, always leveling up — check out the projects.</br>
 
 <h2>👨‍💻 Data Analyst/Scientist Projects:</h2>
 
