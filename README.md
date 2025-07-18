@@ -1,5 +1,9 @@
 <h1>Hi, I'm Nonso!<br>
-Data Analyst, Health Data Analyst, Data Scientist
+Data analyst with a dash of data science magic.
+📊 I turn messy data into clean insights and dashboards that actually make sense.
+🐍 Fluent in Power BI, SQL, Excel... and Python when things get serious.
+⚙ I build, break, and rebuild — it’s all part of the process.
+🚀 Always shipping, always leveling up — check out the projects.
 
 <h2>👨‍💻 Data Analyst/Scientist Projects:</h2>
 
