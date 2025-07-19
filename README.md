@@ -18,10 +18,6 @@ Data analyst with a dash of data science magic.
 - [Introduction to AI in Azure badge](https://learn.microsoft.com/api/achievements/share/en-us/NonsoOkafor-5794/NVSBW5UF?sharingId=2AF98779AADF0968)
 - [Data Anaylytics in Fintech(Advanced)](https://github.com/Nonxoh1/Data-Analytic-certificate-in-business/blob/main/Data%20Analytic%20certificate%20in%20business(Advanced).pdf)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 <h2> 🤳 Connect with me:</h2>
 
 
