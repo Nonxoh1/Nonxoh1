@@ -16,6 +16,7 @@ Data analyst with a dash of data science magic.
 <h2>📄 Certifications</h2>
 
 - [Introduction to AI in Azure badge](https://learn.microsoft.com/api/achievements/share/en-us/NonsoOkafor-5794/NVSBW5UF?sharingId=2AF98779AADF0968)
+- [Data Anaylytics in Fintech(Advanced)](https://github.com/Nonxoh1/Data-Analytic-certificate-in-business/blob/main/Data%20Analytic%20certificate%20in%20business(Advanced).pdf)
 
 <h2>📺 Popular YouTube Videos</h2>
 
