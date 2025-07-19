@@ -31,7 +31,7 @@ Data analyst with a dash of data science magic.
 
 [twitter]: https://x.com/okaforblessed?s=21
 [instagram]: https://www.instagram.com/nonxoh?igsh=MThtNmM4ejA3bTF0cw%3D%3D&utm_source=qr
-[linkedin]: https://linkedin.com/nonso-okafor1
+[linkedin]: https://www.linkedin.com/in/nonso-okafor1/
 
 <!--
 *joshmadakor1/joshmadakor1* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
