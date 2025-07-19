@@ -10,7 +10,7 @@ Data analyst with a dash of data science magic.
 - <b>Data Preparation and Analysis Practice</b>
   - [Channels Transaction Dahboard in a Microfinance Bank](https://github.com/Nonxoh1/All-Channels-Transaction-Dashboard/tree/main)
   - [Performance Dashboard for a sample branch!](https://github.com/Nonxoh1/Branch-Retail-Dashboard)
-  - [Loan Calculator App](https://github.com/Nonxoh1/Branch-Retail-Dashboard)
+  - [Loan Calculator App](https://github.com/Nonxoh1/Loan-Calculator)
 
 
 <h2>📄 Certifications</h2>
