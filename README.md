@@ -29,9 +29,8 @@ Data analyst with a dash of data science magic.
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: https://x.com/okaforblessed?s=21
+[instagram]: https://www.instagram.com/nonxoh?igsh=MThtNmM4ejA3bTF0cw%3D%3D&utm_source=qr
 [linkedin]: https://linkedin.com/nonso-okafor1
 
 <!--
